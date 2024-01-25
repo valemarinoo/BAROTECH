@@ -1,0 +1,71 @@
+Microcontroller  Revised: Wednesday, January 24, 2024
+Barometric Sensor          Revision: v2
+
+
+
+
+
+
+
+Design Name:  C:\CADENCE\BAROTECH_V2.DSN
+
+Cross Reference          January 24,2024      17:46:12	Page1
+
+Item	Part	Reference	SchematicName	Sheet	Library
+____________________________________________________________________________
+
+1	1 UF	C3	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12105C105KAT2A.OLB	
+2	1 UF	C16	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12105C105KAT2A.OLB	
+3	1 UF	C17	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12105C105KAT2A.OLB	
+4	1.2 PF	C13	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\C1210C129D8HAC7800.OLB	
+5	1.2 PF	C14	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\C1210C129D8HAC7800.OLB	
+6	2 nH	L3	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\LQG15HN2N0S02D.OLB	
+7	3.3 kOhm	R14	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW12103K30JNEA.OLB	
+8	10 KOHM	R1	/Microcontroller/Sensor	4	C:\MY_ORCAD_LIBRARY\CRCW121010K0JNEA.OLB	
+9	10 KOHM	R2	/Microcontroller/Sensor	4	C:\MY_ORCAD_LIBRARY\CRCW121010K0JNEA.OLB	
+10	10 UF	C8	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12103C106KAT2A.OLB	
+11	10 UF	C10	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12103C106KAT2A.OLB	
+12	10 UF	C19	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12103C106KAT2A.OLB	
+13	10 UF	C21	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12103C106KAT2A.OLB	
+14	10 kOhm	R4	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\CRCW12103K30JNEA.OLB	
+15	10 uH	L1	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\BRL3225T100K.OLB	
+16	12 PF	C4	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102U120JAT2A.OLB	
+17	12 PF	C5	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102U120JAT2A.OLB	
+18	12 PF	C15	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\12102U120JAT2A.OLB	
+19	15 nH	L2	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\NLV32T-015J-EF.OLB	
+20	22 OHM	R12	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121022R0JNEA.OLB	
+21	22 OHM	R13	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121022R0JNEA.OLB	
+22	24 MHz	Y2	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\ABM8-24000MHZ-D-2-Y-T.OLB	
+23	32.768 kHz	Y1	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\ABS06-32.768KHZ-T.OLB	
+24	33 KOHM	R5	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121033K0JNEA.OLB	
+25	33 KOHM	R6	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121033K0JNEA.OLB	
+26	33 KOHM	R7	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121033K0JNEA.OLB	
+27	33 KOHM	R8	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121033K0JNEA.OLB	
+28	82 Ohm	R10	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW121082R0JNEA.OLB	
+29	100 KOHM	R3	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\CRCW121010K0JNEA.OLB	
+30	100 NF	C1	/Microcontroller/Sensor	4	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+31	100 NF	C2	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+32	100 NF	C6	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+33	100 NF	C7	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+34	100 NF	C9	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+35	100 NF	C11	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+36	100 NF	C12	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+37	100 NF	C18	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12102C104KAT2A.OLB	
+38	100 nF	C22	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\C1210C129D8HAC7800.OLB	
+39	110 OHM	R11	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW1210110RFKEA.OLB	
+40	200 Ohm	R9	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\CRCW1210200RFKEA.OLB	
+41	330 Ohm	R15	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\CRCW12103K30JNEA.OLB	
+42	330 nF	C20	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\12103C334KAT2A.OLB	
+43	105164-0001	J3	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\105164-0001.OLB	
+44	AN043	A1	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\AN043.OLB	
+45	B2B-PH-K-S	J2	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\B2B-PH-K-S.OLB	
+46	BLM18HE152SN1D	FB1	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\BLM18HE152SN1D.OLB	
+47	BMP390	IC1	/Microcontroller/Sensor	4	C:\MY_ORCAD_LIBRARY\BMP390.OLB	
+48	CC2640R2FRHBR	U1	/Microcontroller	1	C:\MY_ORCAD_LIBRARY\CC2640R2FRHBR.OLB	
+49	FTSH-105-01-L-D-RA-K	J1	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\FTSH-105-01-L-D-RA-K.OLB	
+50	LED RGB	D1	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\19-337CRSBHGHC-A884T.OLB	
+51	LL3301NF065QG	S1	/Microcontroller/Sensor/Peripherals	2	C:\MY_ORCAD_LIBRARY\LL3301NF065QG.OLB	
+52	MAX1555EZK+T	U2	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\MAX1555EZK+T.OLB	
+53	MAX1759EUB+	IC2	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\MAX1759EUB+.OLB	
+54	MAX17048G+T10	U3	/Microcontroller/Sensor/Peripherals/Power	3	C:\CADENCE\BAROTECH_V2.DSN	
+55	TL3901AGQF180	S2	/Microcontroller/Sensor/Peripherals/Power	3	C:\MY_ORCAD_LIBRARY\TL3901AGQF180.OLB	

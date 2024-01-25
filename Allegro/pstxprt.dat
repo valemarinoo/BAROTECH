@@ -1,0 +1,560 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-24-2024 at 19:26:31 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BAROTECH';
+ POST_TIME='Jan 11 2022 00:43:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'AN043_AN043_PATCH_ANTENNA_AN043':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110024@AN043.AN043.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110024@an043.\an043.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110024@an043.\an043.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS109397@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins109397@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page4_ins109397@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 '12103C106KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108498@12103C106KAT2A.12103C106KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108498@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108498@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108514@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108514@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108514@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108530@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108530@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108530@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C1210C129D8HAC7800_CAPC3325X127':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110136@C1210C129D8HAC7800.C1210C129D8HAC7800.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110136@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110136@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C1210C129D8HAC7800_CAPC3325X127':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110152@C1210C129D8HAC7800.C1210C129D8HAC7800.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110152@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110152@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 '12102U120JAT2A_CAPC3325X127N_12':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110084@12102U120JAT2A.12102U120JAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110084@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110084@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 '12105C105KAT2A_CAPC3325X127N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114525@12105C105KAT2A.12105C105KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114525@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114525@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 '12105C105KAT2A_CAPC3325X127N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114501@12105C105KAT2A.12105C105KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114501@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114501@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114629@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114629@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114629@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 '12103C106KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114975@12103C106KAT2A.12103C106KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114975@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114975@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS107856@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins107856@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins107856@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 '12103C334KAT2A_CAPC3325X127N_33':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114869@12103C334KAT2A.12103C334KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114869@\12103c334kat2a\.\12103c334kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114869@\12103c334kat2a\.\12103c334kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 '12103C106KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114885@12103C106KAT2A.12103C106KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114885@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114885@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'C1210C129D8HAC7800_CAPC3225X88N':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110444@C1210C129D8HAC7800.C1210C129D8HAC7800.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110444@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110444@c1210c129d8hac7800.\c1210c129d8hac7800.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 '12105C105KAT2A_CAPC3325X127N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS107706@12105C105KAT2A.12105C105KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins107706@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins107706@\12105c105kat2a\.\12105c105kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 '12102U120JAT2A_CAPC3325X127N_12':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108048@12102U120JAT2A.12102U120JAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108048@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108048@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 '12102U120JAT2A_CAPC3325X127N_12':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108152@12102U120JAT2A.12102U120JAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108152@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108152@\12102u120jat2a\.\12102u120jat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108362@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108362@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108362@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108378@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108378@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108378@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 '12103C106KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108394@12103C106KAT2A.12103C106KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108394@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108394@\12103c106kat2a\.\12103c106kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 '12102C104KAT2A_CAPC3325X127N_10':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108410@12102C104KAT2A.12102C104KAT2A.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108410@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108410@\12102c104kat2a\.\12102c104kat2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 '19-337CRSBHGHC-A884T_LED_19-337':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114125@19-337CRSBHGHC-A884T.19-337CRSBHGHC-A884T.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114125@\19-337crsbhghc-a884t\.\19-337crsbhghc-a884t.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114125@\19-337crsbhghc-a884t\.\19-337crsbhghc-a884t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB1 'BLM18HE152SN1D_BLM18SP221SN1B_B':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108458@BLM18HE152SN1D.BLM18HE152SN1D.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108458@blm18he152sn1d.\blm18he152sn1d.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108458@blm18he152sn1d.\blm18he152sn1d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'BMP390_BMP390_BMP390':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS109293@BMP390.BMP390.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins109293@bmp390.\bmp390.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page4_ins109293@bmp390.\bmp390.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 'MAX1759EUB+_SOP50P490X110-10N_M':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114665@MAX1759EUB+.MAX1759EUB+.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114665@\max1759eub+\.\max1759eub+.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114665@\max1759eub+\.\max1759eub+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'FTSH-105-01-L-D-RA-K_SAMTEC_FTS':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110248@FTSH-105-01-L-D-RA-K.FTSH-105-01-L-D-RA-K.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110248@\ftsh-105-01-l-d-ra-k\.\ftsh-105-01-l-d-ra-k.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110248@\ftsh-105-01-l-d-ra-k\.\ftsh-105-01-l-d-ra-k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'B2B-PH-K-S_JST_B2B-PH-K-S_B2B-P':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114075@B2B-PH-K-S.B2B-PH-K-S.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114075@\b2b-ph-k-s\.\b2b-ph-k-s.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114075@\b2b-ph-k-s\.\b2b-ph-k-s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 '105164-0001_MOLEX_105164-0001_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114091@105164-0001.105164-0001.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114091@\105164-0001\.\105164-0001.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114091@\105164-0001\.\105164-0001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'BRL3225T100K_INDC3225X170N_10 U':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108346@BRL3225T100K.BRL3225T100K.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108346@brl3225t100k.\brl3225t100k.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108346@brl3225t100k.\brl3225t100k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'NLV32T-015J-EF_INDM3225X240N_15':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110008@NLV32T-015J-EF.NLV32T-015J-EF.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110008@\nlv32t-015j-ef\.\nlv32t-015j-ef.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110008@\nlv32t-015j-ef\.\nlv32t-015j-ef.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'LQG15HN2N0S02D_INDC1005X55N_2 N':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110068@LQG15HN2N0S02D.LQG15HN2N0S02D.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110068@lqg15hn2n0s02d.\lqg15hn2n0s02d.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110068@lqg15hn2n0s02d.\lqg15hn2n0s02d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'CRCW121010K0JNEA_RESC3225X60N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS109277@CRCW121010K0JNEA.CRCW121010K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins109277@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page4_ins109277@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'CRCW121082R0JNEA_RESC3225X60N_8':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114161@CRCW121082R0JNEA.CRCW121082R0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114161@crcw121082r0jnea.\crcw121082r0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114161@crcw121082r0jnea.\crcw121082r0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'CRCW1210110RFKEA_RESC3225X60N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114227@CRCW1210110RFKEA.CRCW1210110RFKEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114227@crcw1210110rfkea.\crcw1210110rfkea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114227@crcw1210110rfkea.\crcw1210110rfkea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'CRCW121022R0JNEA_RESC3225X60N_2':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114947@CRCW121022R0JNEA.CRCW121022R0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114947@crcw121022r0jnea.\crcw121022r0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114947@crcw121022r0jnea.\crcw121022r0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'CRCW121022R0JNEA_RESC3225X60N_2':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS115019@CRCW121022R0JNEA.CRCW121022R0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins115019@crcw121022r0jnea.\crcw121022r0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins115019@crcw121022r0jnea.\crcw121022r0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'CRCW12103K30JNEA_RESC3225X60N_3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114837@CRCW12103K30JNEA.CRCW12103K30JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114837@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114837@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'CRCW12103K30JNEA_RESC3225X60N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110388@CRCW12103K30JNEA.CRCW12103K30JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110388@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110388@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'CRCW121010K0JNEA_RESC3225X60N_1':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS109425@CRCW121010K0JNEA.CRCW121010K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins109425@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page4_ins109425@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'CRCW121010K0JNEA_RESC3225X60N_2':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS107734@CRCW121010K0JNEA.CRCW121010K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins107734@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins107734@crcw121010k0jnea.\crcw121010k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'CRCW12103K30JNEA_RESC3225X60N_2':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110220@CRCW12103K30JNEA.CRCW12103K30JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110220@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110220@crcw12103k30jnea.\crcw12103k30jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'CRCW121033K0JNEA_RESC3225X60N_3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114395@CRCW121033K0JNEA.CRCW121033K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114395@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114395@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'CRCW121033K0JNEA_RESC3225X60N_3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114411@CRCW121033K0JNEA.CRCW121033K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114411@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114411@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'CRCW121033K0JNEA_RESC3225X60N_3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114279@CRCW121033K0JNEA.CRCW121033K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114279@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114279@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'CRCW121033K0JNEA_RESC3225X60N_3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114469@CRCW121033K0JNEA.CRCW121033K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114469@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114469@crcw121033k0jnea.\crcw121033k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'CRCW1210200RFKEA_RESC3225X60N_2':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114039@CRCW1210200RFKEA.CRCW1210200RFKEA.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114039@crcw1210200rfkea.\crcw1210200rfkea.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114039@crcw1210200rfkea.\crcw1210200rfkea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'LL3301NF065QG_LL3301NF065QG_LL3':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS110340@LL3301NF065QG.LL3301NF065QG.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins110340@ll3301nf065qg.\ll3301nf065qg.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page2_ins110340@ll3301nf065qg.\ll3301nf065qg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'TL3901AGQF180_SW_TL3901AGQF180_':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114341@TL3901AGQF180.TL3901AGQF180.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114341@tl3901agqf180.\tl3901agqf180.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114341@tl3901agqf180.\tl3901agqf180.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CC2640R2FRHBR_IC_CC2640R2FRHBR_':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS107628@CC2640R2FRHBR.CC2640R2FRHBR.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins107628@cc2640r2frhbr.\cc2640r2frhbr.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins107628@cc2640r2frhbr.\cc2640r2frhbr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MAX1555EZK+T_SOT95P275X110-5N_M':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114361@MAX1555EZK+T.MAX1555EZK+T.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114361@\max1555ezk+t\.\max1555ezk+t.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114361@\max1555ezk+t\.\max1555ezk+t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MAX17048G+T10_0_SON50P200X200X8':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS114717@BAROTECH_V2.MAX17048G+T10_0.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins114717@barotech_v2.\max17048g+t10_0.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page3_ins114717@barotech_v2.\max17048g+t10_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'ABS06-32.768KHZ-T_ABS06_32.768':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108112@ABS06-32.768KHZ-T.ABS06-32.768KHZ-T.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108112@\abs06-32.768khz-t\.\abs06-32.768khz-t.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108112@\abs06-32.768khz-t\.\abs06-32.768khz-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'ABM8-24000MHZ-D-2-Y-T_XTAL_ABM8':;
+
+SECTION_NUMBER 1
+ '@BAROTECH.SCHEMATICS(SCH_1):INS108020@ABM8-24000MHZ-D-2-Y-T.ABM8-24000MHZ-D-2-Y-T.NORMAL(CHIPS)':
+ C_PATH='@barotech.schematics(sch_1):ins108020@\abm8-24000mhz-d-2-y-t\.\abm8-24000mhz-d-2-y-t.normal\(chips)',
+ P_PATH='@barotech.schematics(sch_1):page1_ins108020@\abm8-24000mhz-d-2-y-t\.\abm8-24000mhz-d-2-y-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

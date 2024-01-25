@@ -1,0 +1,48 @@
+Microcontroller  Revised: Sunday, January 21, 2024
+1          Revision: v2
+
+
+
+
+
+
+
+Bill Of Materials        January 21,2024      18:57:44	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	A1	AN043
+2	9	C1,C2,C6,C7,C9,C11,C12,	100 nF
+		C18,C22
+3	3	C3,C16,C17	1 uF
+4	3	C4,C5,C15	12 pF
+5	4	C8,C10,C19,C21	10 uF
+6	2	C13,C14	1.2 pF
+7	1	C20	330 nF
+8	1	D1	LED RGB
+9	1	FB1	BLM18HE152SN1D
+10	1	IC1	BMP390
+11	1	IC2	MAX1759EUB+
+12	1	J1	FTSH-105-01-L-D-RA-K
+13	1	J2	B2B-PH-K-S
+14	1	J3	105164-0001
+15	1	L1	10 uH
+16	1	L2	15 nH
+17	1	L3	2 nH
+18	3	R1,R2,R4	10 kOhm
+19	1	R3	100 kOhm
+20	4	R5,R6,R7,R8	33 kOhm
+21	1	R9	200 Ohm
+22	1	R10	82 Ohm
+23	1	R11	110 Ohm
+24	2	R12,R13	22 Ohm
+25	1	R14	3.3 kOhm
+26	1	R15	330 Ohm
+27	1	S1	LL3301NF065QG
+28	1	S2	TL3901AGQF180
+29	1	U1	CC2640R2FRHBR
+30	1	U2	MAX1555EZK+T
+31	1	U3	MAX17048G+T10
+32	1	Y1	32.768 kHz
+33	1	Y2	24 MHz
